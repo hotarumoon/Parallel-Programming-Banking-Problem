@@ -1,0 +1,2 @@
+# nQueens
+NQueens Problem solution
